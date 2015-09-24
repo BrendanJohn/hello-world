@@ -1,5 +1,5 @@
-09/15/2015
+# Dynamic Web Applictions Fall 2015
+# Harvard Extension School
+## Portfolio for Brendan Murphy
 
-# Hello World
-
-Just for practice
+This is the root directory for the 4 projects I will create this semester
