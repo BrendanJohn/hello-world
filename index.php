@@ -30,9 +30,9 @@
 		View: <a href = "http://p2.brendanmurph.com">[link]</a>
 		Github: <a href = "https://github.com/BrendanJohn/passwordGen">[link]</a>
 		
-		<h3>Project 3 Title</h3>
-		View: [link]
-		Github: [link]
+		<h3>Developer's Best Friend</h3>
+		View: <a href = "http://p3.brendanmurph.com">[link]</a>
+		Github: <a href = "https://github.com/BrendanJohn/p3">[link]</a>
 		
 		<h3>Project 4 Title</h3>
 		View: [link]
