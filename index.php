@@ -40,7 +40,7 @@
 
 
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
-		<p>I am a Boston native (South Shore), my Grandmother emigrated from Ireland in the early 1900s. I have the freckles to prove it. I have lived around New England my entire life and went to college in New Hampsire. I was on the ski team and still ski regularly. We had 20 feet of snow last year so that worked out well. I also like to travel, and am currently a Web UI developer at a company called World Travel Holdings.</p>
+		<p>I am a Boston native (South Shore), my Grandmother emigrated from Ireland in the early 1900s. I have the freckles to prove it. I have lived in New England my entire life and went to college in New Hampsire. I was on the ski team and still ski regularly. We had 20 feet of snow last year so that worked out well. I also like to travel, and am currently a Web UI developer at World Travel Holdings.</p>
 		
 		<h2>Why are you taking this course?</h2>
 		<p>I am taking this course to improve my back end development skills. My primary skills reside on the front end where I work in HTML, CSS and JavaScript.</p>
