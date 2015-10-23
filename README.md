@@ -1,11 +1,18 @@
-## P1
+# P1
 
-# Live URL
+## Live URL
 <http://p1.brendanmurph.com>
 
-# Dynamic Web Applictions Fall 2015
-# Harvard Extension School
-# Portfolio for Brendan Murphy
-
+## Description
 This is the root directory for the 4 projects I will create this semester
+
+## Demo
+N/A
+
+
+## Libraries
+* Bootstrap
+* jQuery
+
+
 
