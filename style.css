@@ -11,3 +11,8 @@ img {
 	margin:auto;
 	width:50%;
 }
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}

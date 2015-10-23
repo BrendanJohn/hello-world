@@ -7,11 +7,10 @@
 	<meta charset="utf-8">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
-	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
+	<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css' rel='stylesheet'>
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' rel='stylesheet'>
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/spacelab/bootstrap.min.css" rel="stylesheet" integrity="sha256-j7Dtnd7ZjexEiPNbscbopFn9+Cs0b3TLipKsWAPHZIM= sha512-RFhfi6P8zWMAJrEGU+CPjuxPh3r/UUBGqQ+/o6WKPIVZmQqeOipGotH2ihRULuQ8wsMBoK15TSZqc/7VYWyuIw==" crossorigin="anonymous">
 	<link rel='stylesheet' href='style.css' type='text/css'>
-	
 
 	
 </head>
@@ -28,11 +27,11 @@
 	<div class="container">		
 		<h3>XKCD Password Generator</h3>
 		View: <a href = "http://p2.brendanmurph.com">[link]</a>
-		Github: <a href = "https://github.com/BrendanJohn/passwordGen">[link]</a>
+		Github: <a target="_blank" href="https://github.com/BrendanJohn/p2" title="Github"><i class="fa fa-2x fa-github"></i></a>
 		
 		<h3>Developer's Best Friend</h3>
 		View: <a href = "http://p3.brendanmurph.com">[link]</a>
-		Github: <a href = "https://github.com/BrendanJohn/p3">[link]</a>
+		Github: <a target="_blank" href="https://github.com/BrendanJohn/p3" title="Github"><i class="fa fa-2x fa-github"></i></a>
 		
 		<h3>Project 4 Title</h3>
 		View: [link]
