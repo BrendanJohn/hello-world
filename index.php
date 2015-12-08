@@ -47,11 +47,11 @@
          </div>
          <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
-               <h4>Project 4</h4>
-               View: <a href = "http://p2.brendanmurph.com"></a>
+               <h4>TaskMaster</h4>
+               View: <a href = "http://p4.brendanmurph.com">p4.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
-               <strong>2015</strong>
+               <strong>December 2015</strong>
             </div>
             <div class="col-lg-8 col-lg-offset-2">
                <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/p4" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
