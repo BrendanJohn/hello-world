@@ -75,11 +75,11 @@
             <div class="col-lg-8 col-lg-offset-2">
                <hr>
                <h3>In 2+ sentences describe who you are and what you do.</h3>
-               <p>I am a Boston native (South Shore), my Grandmother emigrated from Ireland in the early 1900s. I have the freckles to prove it. I have lived in New England my whole life and went to college in New Hampshire. I was on the ski team and still ski regularly. We had 20 feet of snow last year so that worked out well. I also like to travel, and am currently a Web UI developer at World Travel Holdings.</p>
+               <p>I am a Boston native (South Shore), my Grandmother emigrated from Ireland in the early 1900s. I have the freckles to prove it. I have lived in New England my whole life and went to college in New Hampshire. I was on the ski team and still ski regularly. We had 20 feet of snow last year so that worked out well. I also like to travel, and am currently a Software Developer at Liberty Mutual Insurance.</p>
                <h3>Why are you taking this course?</h3>
                <p>I am taking this course to improve my back end development skills. My primary skills reside on the front end where I work in HTML, CSS and JavaScript.</p>
                <h3>What previous experience do you have with programming?</h3>
-               <p>Basic to intermediate knowledge of programming. Primarily learned while earning a Computer Science cert at Quincy College, followed by 3 years of professional experience. Also lots and lots of trial and error.</p>
+               <p>Intermediate knowledge of programming. Primarily learned while earning a Computer Science cert at Quincy College, followed by 4 years of professional experience. Also lots and lots of trial and error.</p>
                <h3>Are you working on a Mac, PC, or some other platform?</h3>
                <p>Windows 7 home build.</p>
                <h3>Anything else we should know?</h3>
