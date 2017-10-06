@@ -24,7 +24,7 @@
          <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
                <h4>Brutalist Architecture in Boston</h4>
-               View: <a href = "http://brutalist.brendanmurph.com">http://brutalist.brendanmurph.com</a>
+               View: <a href = "http://brutalist.brendanmurph.com">brutalist.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
                <strong>October 2017</strong>
