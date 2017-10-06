@@ -12,13 +12,25 @@
    <body>
       <div class="container">
          <h1>Brendan Murphy</h1>
-         <h1>Dynamic Web Apps Portfolio</h1>
+         <h1>Web Portfolio</h1>
          <img src='headshot.jpg' alt='Brendan Murphy'>
       </div>
       <div data-sr class="container">
          <div class="row">
             <div class="col-lg-12 text-center">
                <h2 class="h2">PROJECTS</h2>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-4 col-lg-offset-2">
+               <h4>Brutalist Architecture in Boston</h4>
+               View: <a href = "http://brutalist.brendanmurph.com">http://brutalist.brendanmurph.com</a>
+            </div>
+            <div class="col-lg-4 col-lg-offset-2">
+               <strong>October 2017</strong>
+            </div>
+            <div class="col-lg-8 col-lg-offset-2">
+               <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/brutal" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
             </div>
          </div>
          <div class="row">
