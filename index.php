@@ -24,7 +24,7 @@
          <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
                <h4>Tallest Structures in Boston, MA</h4>
-               View: <a href = "http://brutalist.brendanmurph.com">tallest.brendanmurph.com</a>
+               View: <a href = "http://tallest.brendanmurph.com">tallest.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
                <strong>November 2017</strong>
@@ -35,7 +35,7 @@
          </div>
          <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
-               <h4>Brutalist Architecture in Boston MA</h4>
+               <h4>Brutalist Architecture in Boston, MA</h4>
                View: <a href = "http://brutalist.brendanmurph.com">brutalist.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
