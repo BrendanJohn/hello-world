@@ -21,6 +21,18 @@
                <h2 class="h2">PROJECTS</h2>
             </div>
          </div>
+          <div class="row">
+              <div class="col-lg-4 col-lg-offset-2">
+                  <h4>CS50 Final Project: The Wrestling Wizard</h4>
+                  View: <a href ="https://wrestling-wizard.herokuapp.com/">wrestling-wizard.herokuapp.com</a>
+              </div>
+              <div class="col-lg-4 col-lg-offset-2">
+                  <strong>December 2019</strong>
+              </div>
+              <div class="col-lg-8 col-lg-offset-2">
+                  <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/wrestlingWizard" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
+              </div>
+          </div>
          <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
                <h4>Modern Architecture in Boston, MA</h4>
