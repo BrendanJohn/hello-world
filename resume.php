@@ -13,13 +13,12 @@
    <body>
       <div class="container">
          <h1>Brendan Murphy</h1>
-         <h1>Web Portfolio / Resume</h1>
-         <img src='headshot.jpg' alt='Brendan Murphy'>
+          <h1><a href="index.php">Web Portfolio</a> / <a href="resume.php">Resume</a></h1>
       </div>
       <div data-sr class="container">
          <div class="row">
             <div class="col-lg-12 text-center">
-               <h2 class="h2">PROJECTS</h2>
+               <h2 class="h2">Employment History</h2>
             </div>
          </div>
           <div class="row">
