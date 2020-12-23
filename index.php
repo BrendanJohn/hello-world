@@ -11,20 +11,21 @@
       <link rel='stylesheet' href='style.css' type='text/css'>
    </head>
    <body>
-      <div class="container">
-         <h1>Brendan Murphy</h1>
-          <h1><a href="index.php">Web Portfolio</a> / <a href="resume.php">Résumé</a></h1>
-         <img src='headshot.jpg' alt='Brendan Murphy'>
-      </div>
-      <div data-sr class="container">
-         <div class="row">
-            <div class="col-lg-12 text-center">
-               <h2 class="h2">PROJECTS</h2>
-            </div>
-         </div>
-          <div class="row">
-              <div class="col-lg-4 col-lg-offset-2">
-                  <h4>CS50 Final Project: The Wrestling Wizard</h4>
+   <div data-sr class="container">
+       <div class="row text-center">
+           <h1>Brendan Murphy</h1>
+           <img src='headshot.jpg' alt='Brendan Murphy'>
+           <h2><i>Senior Software Engineer</i></h2>
+       </div>
+       <div class="row">
+           <div class="col-lg-12 text-center">
+               <h2><a href="index.php">Web Portfolio</a> / <a href="resume.php">Résumé</a></h2>
+               <h2 class="h2">Projects</h2>
+           </div>
+       </div>
+       <div class="row">
+           <div class="col-lg-4 col-lg-offset-2">
+               <h4>CS50 Final Project: The Wrestling Wizard</h4>
                   View: <a href ="https://wrestling-wizard.herokuapp.com/">wrestling-wizard.herokuapp.com</a>
               </div>
               <div class="col-lg-4 col-lg-offset-2">

@@ -11,13 +11,14 @@
       <link rel='stylesheet' href='style.css' type='text/css'>
    </head>
    <body>
-      <div class="container">
-         <h1>Brendan Murphy</h1>
-          <h1><a href="index.php">Web Portfolio</a> / <a href="resume.php">Résumé</a></h1>
-      </div>
-      <div data-sr class="container">
+        <div data-sr class="container">
+            <div class="row text-center">
+                <h1>Brendan Murphy</h1>
+                <h2><i>Senior Software Engineer</i></h2>
+            </div>
          <div class="row">
             <div class="col-lg-12 text-center">
+                <h2><a href="index.php">Web Portfolio</a> / <a href="resume.php">Résumé</a></h2>
                 <h2 class="h2">Education</h2>
                <h2 class="h2">Employment History</h2>
             </div>
