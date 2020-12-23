@@ -22,6 +22,7 @@
                <li class="active"><a href="index.php">Home</a></li>
                <li><a href="index.php">Web Portfolio</a></li>
                <li><a href="resume.php">Resume</a></li>
+               <li><a href="https://github.com/BrendanJohn">GitHub</a></li>
            </ul>
        </div>
    </nav>
@@ -35,28 +36,30 @@
            <div class="col-lg-8 col-lg-offset-2 text-center">
                <h2>Web Portfolio</h2>
                <hr>
-               <h2 class="h2">Projects</h2>
+               <h2>Projects</h2>
            </div>
        </div>
        <div class="row">
+           <h3 class="text-center"><a href="https://cs50.harvard.edu/">CS50</a>: Introduction to Computer Science</h3>
            <div class="col-lg-4 col-lg-offset-2">
-               <h4>CS50 Final Project: The Wrestling Wizard</h4>
+               <h4>The Wrestling Wizard</h4>
                   View: <a href ="https://wrestling-wizard.herokuapp.com/">wrestling-wizard.herokuapp.com</a>
               </div>
               <div class="col-lg-4 col-lg-offset-2">
-                  <strong>December 2019</strong>
+                  <h4>December 2019</h4>
               </div>
               <div class="col-lg-8 col-lg-offset-2">
                   <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/wrestlingWizard" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
               </div>
           </div>
          <div class="row">
+             <h3 class="text-center"><a href="https://scholar.harvard.edu/jen4web/classes/dgmd-e-20-modern-and-mobile-front-end-web-design-i">DGMD E-20</a>: Modern and Mobile Front-End Web Design I</h3>
             <div class="col-lg-4 col-lg-offset-2">
                <h4>Modern Architecture in Boston, MA</h4>
                View: <a href = "http://modern.brendanmurph.com">modern.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
-               <strong>December 2017</strong>
+               <h4>December 2017</h4>
             </div>
             <div class="col-lg-8 col-lg-offset-2">
                <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/modern" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
@@ -68,7 +71,7 @@
                View: <a href = "http://tallest.brendanmurph.com">tallest.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
-               <strong>November 2017</strong>
+               <h4>November 2017</h4>
             </div>
             <div class="col-lg-8 col-lg-offset-2">
                <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/tallest" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
@@ -80,19 +83,33 @@
                View: <a href = "http://brutalist.brendanmurph.com">brutalist.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
-               <strong>October 2017</strong>
+               <h4>October 2017</h4>
             </div>
             <div class="col-lg-8 col-lg-offset-2">
                <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/brutal" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
             </div>
          </div>
+           <div class="row">
+               <h3 class="text-center"><a href="https://canvas.harvard.edu/courses/52938">CSCI E-12</a>: Fundamentals of Website Development   </h3>
+               <div class="col-lg-4 col-lg-offset-2">
+                   <h4>Back Bay Fens Guide</h4>
+                   View: <a href = "http://brutalist.brendanmurph.com">brutalist.brendanmurph.com</a>
+               </div>
+               <div class="col-lg-4 col-lg-offset-2">
+                   <h4>May 2016</h4>
+               </div>
+               <div class="col-lg-8 col-lg-offset-2">
+                   <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/backbayfens" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
+               </div>
+           </div>
          <div class="row">
+             <h3 class="text-center"><a href="https://hesweb.dev/e15">CSCI E-15</a>: Web Server Frameworks with Laravel/PHP   </h3>
             <div class="col-lg-4 col-lg-offset-2">
                <h4>TaskMaster</h4>
                View: <a href = "http://p4.brendanmurph.com">p4.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
-               <strong>December 2015</strong>
+               <h4>December 2015</h4>
             </div>
             <div class="col-lg-8 col-lg-offset-2">
                <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/p4" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
@@ -104,7 +121,7 @@
                View: <a href = "http://p3.brendanmurph.com">p3.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
-               <strong>October 2015</strong>
+               <h4>October 2015</h4>
             </div>
             <div class="col-lg-8 col-lg-offset-2">
                <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/p3" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
@@ -116,7 +133,7 @@
                View: <a href = "http://p2.brendanmurph.com">p2.brendanmurph.com</a>
             </div>
             <div class="col-lg-4 col-lg-offset-2">
-               <strong>October 2015</strong>
+               <h4>October 2015</h4>
             </div>
             <div class="col-lg-8 col-lg-offset-2">
                <p>Github: <a target="_blank" href="https://github.com/BrendanJohn/p2" title="Github"><i class="fa fa-2x fa-github"></i></a></p>
