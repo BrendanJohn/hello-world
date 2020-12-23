@@ -2,7 +2,7 @@
 <html>
    <head>
        <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-      <title>Brendan Murphy Web Portfolio</title>
+      <title>Resume</title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css' rel='stylesheet'>
@@ -13,7 +13,7 @@
    <body>
       <div class="container">
          <h1>Brendan Murphy</h1>
-          <h1><a href="index.php">Web Portfolio</a> / <a href="resume.php">Resume</a></h1>
+         <h1>Web Portfolio / Resume</h1>
          <img src='headshot.jpg' alt='Brendan Murphy'>
       </div>
       <div data-sr class="container">
