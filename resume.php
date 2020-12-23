@@ -18,6 +18,7 @@
       <div data-sr class="container">
          <div class="row">
             <div class="col-lg-12 text-center">
+                <h2 class="h2">Education/h2>
                <h2 class="h2">Employment History</h2>
             </div>
          </div>
