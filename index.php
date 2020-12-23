@@ -13,7 +13,7 @@
    <body>
       <div class="container">
          <h1>Brendan Murphy</h1>
-          <h1><a href="index.php">Web Portfolio</a> / <a href="resume.php">Resume</a></h1>
+          <h1><a href="index.php">Web Portfolio</a> / <a href="resume.php">Résumé</a></h1>
          <img src='headshot.jpg' alt='Brendan Murphy'>
       </div>
       <div data-sr class="container">
