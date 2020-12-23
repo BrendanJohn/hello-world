@@ -11,16 +11,29 @@
       <link rel='stylesheet' href='style.css' type='text/css'>
    </head>
    <body>
+   <nav class="navbar navbar-inverse">
+       <div class="container-fluid">
+           <div class="navbar-header">
+               <a class="navbar-brand" href="index.php">Brendan Murphy</a>
+           </div>
+           <ul class="nav navbar-nav">
+               <li class="active"><a href="index.php">Home</a></li>
+               <li><a href="index.php">Web Portfolio</a></li>
+               <li><a href="resume.php">Resume</a></li>
+           </ul>
+       </div>
+   </nav>
         <div data-sr class="container">
             <div class="row text-center">
                 <h1>Brendan Murphy</h1>
                 <h2><i>Senior Software Engineer</i></h2>
             </div>
          <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2><a href="index.php">Web Portfolio</a> / <a href="resume.php">Résumé</a></h2>
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2>Résumé</h2>
+                <hr>
                 <h2 class="h2">Education</h2>
-               <h2 class="h2">Employment History</h2>
+                <h2 class="h2">Employment History</h2>
             </div>
          </div>
           <div class="row">
@@ -125,6 +138,6 @@
             </div>
          </div>
       </div>
-      <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
    </body>
 </html>

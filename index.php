@@ -7,19 +7,34 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css' rel='stylesheet'>
       <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' rel='stylesheet'>
-      <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/spacelab/bootstrap.min.css" rel="stylesheet" integrity="sha256-j7Dtnd7ZjexEiPNbscbopFn9+Cs0b3TLipKsWAPHZIM= sha512-RFhfi6P8zWMAJrEGU+CPjuxPh3r/UUBGqQ+/o6WKPIVZmQqeOipGotH2ihRULuQ8wsMBoK15TSZqc/7VYWyuIw==" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/spacelab/bootstrap.min.css" rel="stylesheet"
+            integrity="sha256-j7Dtnd7ZjexEiPNbscbopFn9+Cs0b3TLipKsWAPHZIM= sha512-RFhfi6P8zWMAJrEGU+CPjuxPh3r/UUBGqQ+/o6WKPIVZmQqeOipGotH2ihRULuQ8wsMBoK15TSZqc/7VYWyuIw=="
+            crossorigin="anonymous">
       <link rel='stylesheet' href='style.css' type='text/css'>
    </head>
    <body>
+   <nav class="navbar navbar-inverse">
+       <div class="container-fluid">
+           <div class="navbar-header">
+               <a class="navbar-brand" href="index.php">Brendan Murphy</a>
+           </div>
+           <ul class="nav navbar-nav">
+               <li class="active"><a href="index.php">Home</a></li>
+               <li><a href="index.php">Web Portfolio</a></li>
+               <li><a href="resume.php">Resume</a></li>
+           </ul>
+       </div>
+   </nav>
    <div data-sr class="container">
        <div class="row text-center">
            <h1>Brendan Murphy</h1>
-           <img src='headshot.jpg' alt='Brendan Murphy'>
            <h2><i>Senior Software Engineer</i></h2>
+           <img src='headshot.jpg' alt='Brendan Murphy'>
        </div>
        <div class="row">
-           <div class="col-lg-12 text-center">
-               <h2><a href="index.php">Web Portfolio</a> / <a href="resume.php">Résumé</a></h2>
+           <div class="col-lg-8 col-lg-offset-2 text-center">
+               <h2>Web Portfolio</h2>
+               <hr>
                <h2 class="h2">Projects</h2>
            </div>
        </div>
