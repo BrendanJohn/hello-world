@@ -25,6 +25,16 @@ footer {
 	float: right;
 }
 
-.text-right {
-	text-align: right;
+/* For devices larger than 400px */
+@media (min-width: 1000px) {
+	.date {
+		text-align: right;
+	}
+}
+
+/* For devices less than 400px */
+@media (max-width: 1000px) {
+	.date {
+		text-align: left;
+	}
 }
