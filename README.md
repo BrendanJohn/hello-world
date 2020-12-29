@@ -1,18 +1,9 @@
-# P1
-
 ## Live URL
-<http://p1.brendanmurph.com>
+<http://brendanmurph.com>
 
 ## Description
-This is the root directory for the 4 projects I will create this semester
+Brendan Murphy's personal website
 
-## Demo
-N/A
-
-
-## Libraries
-* Bootstrap
-* jQuery
 
 
 
