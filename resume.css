@@ -1,6 +1,9 @@
 .featured-image {
 	padding-bottom: 20px;
 }
+body {
+	background: #eee;
+}
 
 h1 {
 	text-align:center;
@@ -38,7 +41,7 @@ html {
 	height: 100%;
 }
 
-body {
+.resume {
 	min-height: 100%;
 	background: #eee;
 	font-family: 'Lato', sans-serif;
@@ -147,17 +150,6 @@ body {
 
 .name {
 	font-weight: bold;
-}
-
-a {
-	text-decoration: none;
-	color: #000;
-	font-style: italic;
-}
-
-a:hover {
-	text-decoration: underline;
-	color: #000;
 }
 
 .skills {
