@@ -80,6 +80,13 @@ html {
 	font-weight: 300;
 }
 
+/* For devices less than 400px */
+@media (max-width: 1000px) {
+	.last-name {
+		line-height:50px;
+	}
+}
+
 .contact-info {
 	margin-bottom: 20px;
 }
