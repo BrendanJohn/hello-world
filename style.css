@@ -29,6 +29,10 @@ footer {
 	float: right;
 }
 
+.bullets {
+	text-decoration: none;
+}
+
 /* For devices larger than 400px */
 @media (min-width: 1000px) {
 	.date {
