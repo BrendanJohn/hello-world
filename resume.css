@@ -79,8 +79,13 @@ html {
 .last-name {
 	font-weight: 300;
 }
+
 .download-button {
 	float: right;
+}
+
+.download-button a {
+	color: white;
 }
 /* For devices less than 400px */
 @media (max-width: 1000px) {
