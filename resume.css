@@ -87,12 +87,6 @@ html {
 .download-button a {
 	color: white;
 }
-/* For devices less than 400px */
-@media (max-width: 1000px) {
-	.last-name {
-		line-height:50px;
-	}
-}
 
 .contact-info {
 	margin-bottom: 20px;
@@ -153,15 +147,6 @@ html {
 	display: inline-block;
 }
 
-.left {
-	width: 60%;
-}
-
-.right {
-	tex-align: right;
-	width: 39%;
-}
-
 .name {
 	font-weight: bold;
 }
@@ -198,11 +183,33 @@ input:checked + label {
 	.date {
 		text-align: right;
 	}
+
+	.left {
+		width: 60%;
+	}
+
+	.right {
+		tex-align: right;
+		width: 39%;
+	}
 }
 
-/* For devices less than 400px */
+/* For devices less than 400px SMALL DEVICE STYLES HERE */
 @media (max-width: 1000px) {
 	.date {
 		text-align: left;
+	}
+
+	.last-name {
+		line-height:50px;
+	}
+
+	.left {
+		width: 33%;
+	}
+
+	.right {
+		tex-align: right;
+		width: 60%;
 	}
 }
