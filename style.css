@@ -1,7 +1,3 @@
-.featured-image {
-	padding-bottom: 20px;
-}
-
 h1 {
 	text-align:center;
 }
@@ -38,11 +34,18 @@ footer {
 	.date {
 		text-align: right;
 	}
+	.featured-image {
+		padding-bottom: 20px;
+	}
 }
 
 /* For devices less than 400px */
 @media (max-width: 1000px) {
 	.date {
 		text-align: left;
+	}
+	.featured-image {
+		padding-bottom: 20px;
+		width: 100%;
 	}
 }
