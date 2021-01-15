@@ -36,6 +36,7 @@ footer {
 	}
 	.featured-image {
 		padding-bottom: 20px;
+		width: 65%;
 	}
 	.aws-badge {
 		max-width: 340px;
