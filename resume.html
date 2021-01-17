@@ -8,29 +8,34 @@
        <meta name="description" content="Brendan Murphy Online Resume">
        <meta name="keywords" content="Brendan, Murphy, Web, Portfolio, software, engineer, java, developer, resume, harvard, saint, anselm, college">
        <meta name="author" content="Brendan Murphy">
-       <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
-      <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css' rel='stylesheet'>
-      <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' rel='stylesheet'>
-      <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/spacelab/bootstrap.min.css" rel="stylesheet" integrity="sha256-j7Dtnd7ZjexEiPNbscbopFn9+Cs0b3TLipKsWAPHZIM= sha512-RFhfi6P8zWMAJrEGU+CPjuxPh3r/UUBGqQ+/o6WKPIVZmQqeOipGotH2ihRULuQ8wsMBoK15TSZqc/7VYWyuIw==" crossorigin="anonymous">
-      <link rel='stylesheet' href='resume.css' type='text/css'>
+       <link rel="stylesheet"  type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"  />
+       <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' rel='stylesheet'>
+       <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/spacelab/bootstrap.min.css" rel="stylesheet"
+             integrity="sha256-j7Dtnd7ZjexEiPNbscbopFn9+Cs0b3TLipKsWAPHZIM= sha512-RFhfi6P8zWMAJrEGU+CPjuxPh3r/UUBGqQ+/o6WKPIVZmQqeOipGotH2ihRULuQ8wsMBoK15TSZqc/7VYWyuIw=="
+             crossorigin="anonymous">
+       <link rel='stylesheet' href='style.css' type='text/css'>
+       <link rel='stylesheet' href='menu.css' type='text/css'>
+       <link rel='stylesheet' href='resume.css' type='text/css'>
    </head>
    <body>
-   <nav class="navbar navbar-inverse">
-       <div class="container-fluid">
-           <div class="navbar-header">
-               <a class="navbar-brand" href="index.html">Brendan Murphy</a>
-           </div>
-           <ul class="nav navbar-nav">
-               <li><a href="index.html">Web Portfolio</a></li>
-               <li><a href="fundamentals.html">Fundamentals</a></li>
-               <li><a href="certificates.html">Certificates</a></li>
-               <li class="active"><a href="resume.html">Resume</a></li>
-               <li><a href="about.html">About</a></li>
-               <li><a href="https://github.com/BrendanJohn">GitHub</a></li>
-           </ul>
+   <!-- end of #nav -->
+   <section class="container fluid">
+       <div class="col-sm-12 nav-menu">
+           <nav id="nav">
+               <ul>
+                   <li><a href="index.html">Home</a></li>
+                   <li><a href="fundamentals.html">Fundamentals</a></li>
+                   <li class="active"><a href="certificates.html">Certificates</a></li>
+                   <li><a href="resume.html">Resume</a></li>
+                   <li><a href="about.html">About</a></li>
+                   <li><a href="https://github.com/BrendanJohn">GitHub</a></li>
+                   <li class="right"><a href="index.html">Brendan Murphy</a></li>
+               </ul>
+           </nav>
        </div>
-   </nav>
-   <div class="container resume">
+   </section>
+   <!-- end of #nav -->
+   <div class="container resume resume-container">
        <div class="header">
            <div class="full-name">
                <span class="first-name">Brendan</span>
@@ -212,4 +217,5 @@
    </div>
    <footer>Copyright &copy; 2021 <a tabindex="6" href="http://www.brendanmurph.com">Brendan Murphy</a></footer>
    </body>
+   <script type="text/javascript" src="scripts/menu.js"></script>
 </html>

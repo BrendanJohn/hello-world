@@ -41,6 +41,10 @@ footer {
 	.aws-badge {
 		max-width: 340px;
 	}
+
+	.nav-menu {
+		margin-top:10px;
+	}
 }
 
 /* For devices less than 400px */
@@ -51,5 +55,9 @@ footer {
 	.featured-image {
 		padding-bottom: 20px;
 		width: 100%;
+	}
+
+	.nav-menu {
+		margin-top:50px;
 	}
 }
