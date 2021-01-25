@@ -214,7 +214,6 @@ input:checked + label {
 	}
 
 	.download-button {
-		float: left;
 		margin-bottom: 20px;
 	}
 }
