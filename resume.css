@@ -212,4 +212,9 @@ input:checked + label {
 		tex-align: right;
 		width: 60%;
 	}
+
+	.download-button {
+		float: left;
+		margin-bottom: 20px;
+	}
 }
